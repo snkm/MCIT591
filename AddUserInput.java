@@ -11,9 +11,6 @@ public class AddUserInput {
 	    float userInput;
 		float total = 0;
 		Scanner in = new Scanner(System.in);
-        HEAD
-		/* ask a user to type a number */
-        84eb15e998821ecbd874b3f2fd943a95da8ff5a0
 		System.out.println("Please enter a number:");
 		userInput = in.nextFloat();
 
