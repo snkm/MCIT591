@@ -12,7 +12,7 @@ public class AddUserInput {
 		float total = 0;
 		Scanner in = new Scanner(System.in);
 
-		//ask the user to type a number
+		/* ask the user to type a number */
 
 		System.out.println("Please enter a number:");
 		userInput = in.nextFloat();
